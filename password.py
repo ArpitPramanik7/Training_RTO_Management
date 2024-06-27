@@ -1,1 +1,0 @@
-passwd="Tipra#@2001"
